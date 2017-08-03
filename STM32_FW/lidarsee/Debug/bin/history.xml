@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="5.4.1 -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wall -g -nostartfiles -Map=lidarsee.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\lidarsee -TC:\CooCox\CoIDE\configuration\ProgramData\lidarsee/arm-gcc-link.ld -g">
+      <target file="lidarsee.elf" lastModified="15da7fc7cba">
+         <source file="..\obj\semihosting.o" lastModified="15da7f10a28"/>
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="15da7f10ac0"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="15da7f10b09"/>
+         <source file="..\obj\main.o" lastModified="15da7fc7ad0"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="15da7f10cc2"/>
+         <source file="..\obj\Delay.o" lastModified="15da7f10d1d"/>
+         <source file="..\obj\Serial2.o" lastModified="15da7f10dc2"/>
+         <source file="..\obj\printf.o" lastModified="15da7f10e46"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="15da7f10eb9"/>
+         <source file="..\obj\sh_cmd.o" lastModified="15da7f10ecb"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="15da7f10f26"/>
+         <source file="..\obj\syscalls.o" lastModified="15da7f10f8b"/>
+         <source file="..\obj\stm32f4xx_dma.o" lastModified="15da7f11008"/>
+         <source file="..\obj\Serial.o" lastModified="15da7f1108c"/>
+         <source file="..\obj\stm32f4xx_i2c.o" lastModified="15da7f1111f"/>
+         <source file="..\obj\misc.o" lastModified="15da7f1117c"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="15da7f11272"/>
+      </target>
+   </processor>
+</history>

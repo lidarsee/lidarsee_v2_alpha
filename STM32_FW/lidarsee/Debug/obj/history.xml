@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F405RG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -D__FPU_USED -DHSE_VALUE=8000000 -I..\..\..\..\..\Users\4ndreas\Documents\github\lidarsee -I..\..\..\..\..\Users\4ndreas\Documents\github\lidarsee\STM32_FW\semihosting -I..\..\..\..\..\Users\4ndreas\Documents\github\lidarsee\STM32_FW\cmsis_lib\include -I..\..\..\..\..\Users\4ndreas\Documents\github\lidarsee\STM32_FW\cmsis_lib -I..\..\..\..\..\Users\4ndreas\Documents\github\lidarsee\STM32_FW\cmsis_boot -I..\..\..\..\..\Users\4ndreas\Documents\github -I..\..\..\..\..\Users\4ndreas\Documents\github\lidarsee\STM32_FW -I..\..\..\..\..\Users\4ndreas\Documents\github\lidarsee\STM32_FW\cmsis">
+      <target file="Serial.o" lastModified="15da7f1108c">
+         <source file="..\..\..\Serial.c" lastModified="15d5b7fca11"/>
+      </target>
+      <target file="syscalls.o" lastModified="15da7f10f8b">
+         <source file="..\..\..\syscalls\syscalls.c" lastModified="15d5a4dba07"/>
+      </target>
+      <target file="stm32f4xx_gpio.o" lastModified="15da7f10eb9">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="15d5a4dd1f1"/>
+      </target>
+      <target file="stm32f4xx_dma.o" lastModified="15da7f11008">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_dma.c" lastModified="15d5aafd1f0"/>
+      </target>
+      <target file="Serial2.o" lastModified="15da7f10dc2">
+         <source file="..\..\..\Serial2.c" lastModified="15da72d0808"/>
+      </target>
+      <target file="stm32f4xx_tim.o" lastModified="15da7f11272">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_tim.c" lastModified="15d5ab014fb"/>
+      </target>
+      <target file="printf.o" lastModified="15da7f10e46">
+         <source file="..\..\..\stdio\printf.c" lastModified="15d5a86f796"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="15da7f10f26">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="15d5a4d8f3e"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="15da7f10b09">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="15d5a4d8f30"/>
+      </target>
+      <target file="stm32f4xx_i2c.o" lastModified="15da7f1111f">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_i2c.c" lastModified="15d5aafcac3"/>
+      </target>
+      <target file="stm32f4xx_usart.o" lastModified="15da7f10ac0">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_usart.c" lastModified="15d5a4deeaa"/>
+      </target>
+      <target file="Delay.o" lastModified="15da7f10d1d">
+         <source file="..\..\..\Delay.c" lastModified="15d5a6fd22b"/>
+      </target>
+      <target file="main.o" lastModified="15da7fc7ad0">
+         <source file="..\..\..\main.c" lastModified="15da7fc77af"/>
+      </target>
+      <target file="sh_cmd.o" lastModified="15da7f10ecb">
+         <source file="..\..\..\semihosting\sh_cmd.s" lastModified="15d5a86f779"/>
+      </target>
+      <target file="semihosting.o" lastModified="15da7f10a28">
+         <source file="..\..\..\semihosting\semihosting.c" lastModified="15d5a86f76f"/>
+      </target>
+      <target file="stm32f4xx_rcc.o" lastModified="15da7f10cc2">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="15d5a4dd204"/>
+      </target>
+      <target file="misc.o" lastModified="15da7f1117c">
+         <source file="..\..\..\cmsis_lib\source\misc.c" lastModified="15d5a4e0c6a"/>
+      </target>
+   </processor>
+</history>
