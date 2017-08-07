@@ -12,3 +12,6 @@ Motherboard_STM32F405RG_r1 ist the mainboard for the head unit.
 * Rework of the LiPo Boost converter (larger inductor? )
 * IMU not tested
 * using beter handsolderable parts 
+
+## Wiring
+![assemblyMainbaord](../docs/images/MotherboardImage.jpg)
