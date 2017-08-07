@@ -1,1 +1,5 @@
-# lidarsee_v2_alpha
+# lidarsee v2 hardware
+## 
+
+![lidarsee](docs/images/lidarsee.jpg)
+
