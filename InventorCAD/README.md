@@ -8,7 +8,7 @@ Design is done in Autodesk Inventor 2016
 
 * Lidarsee_v2.iam - main assembly
 * Lidar.ipt and Lidar_v2.ipt is are rought models of the XV-11 LIDAR- Module
-*
+* there is also a mokup of the PCB available. 
 
 
 ## brass insert nut
