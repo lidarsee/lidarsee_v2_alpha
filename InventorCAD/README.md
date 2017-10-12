@@ -12,5 +12,6 @@ Design is done in _Autodesk Inventor 2016_
 
 
 ## Brass Insert Nut
-For the installing we used brass insert nuts which we mounted by using an old soldering iron. 
+For the installation we used brass insert nuts which we mounted by using an old soldering iron. 
+
 ![brassinsertnut](../docs/images/brassInserts.jpg)
