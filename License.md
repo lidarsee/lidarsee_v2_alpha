@@ -1,4 +1,4 @@
 **Hardware license**: Creative Commons CC0
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
-Software license: MIT License
+**Software license**: MIT License
